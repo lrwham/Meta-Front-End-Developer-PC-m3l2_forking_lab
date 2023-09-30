@@ -1,3 +1,3 @@
 Tamoor Ali Khaskheli 
 Meta front end developer Version control certificate 
-Forking lab exercise
+checking for diff command and practice
