@@ -1,3 +1,3 @@
 First name: Mei Tzy
 
-Name of the certification you are working on: Industry Professional Credentials Track
+Name of the certification: Industry Professional Credentials Track
