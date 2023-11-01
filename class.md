@@ -12,4 +12,4 @@ Silver
 Fuchsia
 Purple
 Brown
-Red_new
+Orange_new
