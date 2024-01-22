@@ -1,2 +1,1 @@
-Lawton Willingham
-Meta Front End PC
+Sam works on Meta frond end developer by himself.
