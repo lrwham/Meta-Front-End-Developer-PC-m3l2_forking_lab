@@ -1,1 +1,24 @@
-I don't know what text should go here...
+How to use Git and GitHub
+
+1.Create a Repository from GitHub
+At GitHub click 'Crate Repository'
+Input a Repository name, description, select Public or Private, check the add README file
+Click create Repository
+
+2.Make a work folder on the local directory and clone the repository
+At the Terminal use the command 'mkdir <directory name>'
+Change to the created directory using 'cd <directory name>'
+Clone the repository to the local using 'git clone <copied the https path from GitHub>'
+Use command ls -la or ls to check the cloned repository
+
+3.Verify changes on the files using Git commands
+ git status
+ git log
+ git blame <file name>
+ git diff
+
+4.Add, commit, merge a file locally or remotely using git commands
+ git add
+ git commit -m '<message>'
+ git push <alias> <branch>
+ git pull <alias> <branch>
