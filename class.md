@@ -1,3 +1,3 @@
-Ace
-United States of America
-Version Control by Meta
+My name
+My location
+Meta Front End Developer Certificate
