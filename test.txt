@@ -1,5 +1,14 @@
-I don't know what text should go here...
-editing text.txt file
-Naresh kumar N
-Doing meta front end developer course
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
 
