@@ -1,1 +1,13 @@
-I don't know what text should go here...
+Carmesí
+Naranja
+Azul
+Cian
+Amarilo
+Carbón
+Caqui
+Coral
+Plata
+Fucsia
+Púrpura
+Marrón
+Rojo.
