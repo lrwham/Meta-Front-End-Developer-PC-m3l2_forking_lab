@@ -1,1 +1,4 @@
 I don't know what text should go here...
+Add your first name - Robert
+Add your location - BCN
+Add the name of the certification you are working on - META FRONT END DEVELOPER
