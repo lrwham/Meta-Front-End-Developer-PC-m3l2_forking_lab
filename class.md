@@ -1,0 +1,2 @@
+omri shtruzer
+React native specialization
