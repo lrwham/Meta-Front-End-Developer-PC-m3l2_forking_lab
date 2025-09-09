@@ -1,3 +1,3 @@
-Seif Ali Esmael
-Mauritius
+myName
+myLocation
 Meta Front-End Developer
