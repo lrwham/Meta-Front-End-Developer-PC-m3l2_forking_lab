@@ -1,3 +1,1 @@
 I don't know what text should go here...
-Hey, I'm Jānis
-I'm working towards Version control certification as a part of Meta BE Developer certification
